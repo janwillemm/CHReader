@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CHReader</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Welkom bij deze CH app! Met deze app kun je je collegekaart koppelen aan je CH account!</string>
+
+    <string name="button_geen_ch_lid_tekst">Ik ben nog geen CH lid</string>
+    <string name="button_al_ch_lid_tekst">Ik ben al CH lid</string>
+    <string name="welkom_tekst">Welkom bij deze CH app. Scan je collegekaart om je te registreren!</string>
+</resources>

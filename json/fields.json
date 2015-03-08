@@ -1,0 +1,20 @@
+{
+    "fields": [{
+        "name": "userid",
+        "type": "int",
+        "constraints": [{
+            "name": "userid",
+            "definition": "default 10"
+        }, {
+            "name": "idnotnull",
+            "definition": "not null"
+        }]
+    }, {
+        "name": "username",
+        "type": "string"
+    }],
+    "constraints": [{
+        "name": "userid",
+        "definition": "unique ( userid, username ) on conflict replace"
+    }]
+}

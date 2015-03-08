@@ -1,0 +1,19 @@
+ {
+     "fields": [{
+         "name": "card",
+         "type": "text",
+         "constraints": [{
+             "name": "idnotnull",
+             "definition": "not null"
+         }]
+     }, {
+         "name": "Voorletters",
+        "type": "string"
+     }, {
+         "name": "chid",
+         "type": "string"
+     }, {
+         "name": "studentnummer",
+         "type": "int"
+     }],
+ }

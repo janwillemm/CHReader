@@ -1,0 +1,7 @@
+{
+    "package": "nl.tudelft.ch.chreader.database",
+    "contentproviderName": "dataProvider",
+    "authority": "nl.tudelft.ch.chreader",
+    "databaseName": "ch",
+    "databaseVersion": 1 // increment this if you make changes
+}
